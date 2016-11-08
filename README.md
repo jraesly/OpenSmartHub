@@ -49,6 +49,7 @@ There are other open source automation projects but **the key to the OpenSmartHu
 
 ###Near Future:
   * Amazon Echo
+  * Google Home
 
 Want to see a device supported? You have the power to add it yourself!
 
